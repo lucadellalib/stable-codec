@@ -17,5 +17,6 @@ setup(
                       'torchaudio',
                       'stable-audio-tools',
                       'pytorch-lightning',
+                      'flash-attn',
                       'prefigure']
 )
