@@ -16,6 +16,6 @@ setup(
                       'torch',
                       'torchaudio',
                       'stable-audio-tools',
-                      'pytorch-lightning=',
+                      'pytorch-lightning',
                       'prefigure']
 )
